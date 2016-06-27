@@ -27,7 +27,8 @@ The course titled **Better Living Through Data Science: Exploring / Modeling / P
 		- As course management system
 		- For team collaboration
 	- Challenges:
-		- Remember to pull before working 
+		- Remember to pull before starting work 
+		- Resolving merge conflicts
 		- Sometimes RStudio interface isn't sufficient
 		- Updates for next time:
 			- First assignment an individual assignment (not team)
