@@ -4,7 +4,9 @@ Slides for the "A first-year undergraduate data science course" talk at useR 201
 
 ## Course info
 
-The course titled **
+The course titled **Better Living Through Data Science: Exploring / Modeling / Predicting / Understanding**. Previous course home pages:
+	- Fall 2015: https://www.stat.duke.edu/courses/Fall15/sta112.01/ (uses git/GitHub)
+	- Fall 2014: https://www.stat.duke.edu/courses/Fall14/sta112.01/ (foes not use git/GitHub)
 
 ## Talk outline
 
@@ -30,6 +32,9 @@ The course titled **
 			- First assignment an individual assignment (not team)
 - Course logistics
 - Exercise examples
+- Last day:
+	- Local install
+	- Words of caution on private data
 - Assessment and curricular considerations
 - Impact
 
