@@ -8,6 +8,7 @@ The course titled **Better Living Through Data Science: Exploring / Modeling / P
 
 - Fall 2015: https://www.stat.duke.edu/courses/Fall15/sta112.01/ (uses git/GitHub)
 - Fall 2014: https://www.stat.duke.edu/courses/Fall14/sta112.01/ (does not use git/GitHub)
+	- GitHub repo for course materials: https://github.com/mine-cetinkaya-rundel/sta112_f15
 
 ## Talk outline
 
