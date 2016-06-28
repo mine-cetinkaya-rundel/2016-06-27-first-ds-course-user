@@ -7,8 +7,9 @@ Slides for the "A first-year undergraduate data science course" talk at useR 201
 The course titled **Better Living Through Data Science: Exploring / Modeling / Predicting / Understanding**. Previous course home pages:
 
 - Fall 2015: https://www.stat.duke.edu/courses/Fall15/sta112.01/ (uses git/GitHub)
-- Fall 2014: https://www.stat.duke.edu/courses/Fall14/sta112.01/ (does not use git/GitHub)
 	- GitHub repo for course materials: https://github.com/mine-cetinkaya-rundel/sta112_f15
+- Fall 2014: https://www.stat.duke.edu/courses/Fall14/sta112.01/ (does not use git/GitHub)
+	- Course materials not on GitHub, but available on request
 
 ## Talk outline
 
