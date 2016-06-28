@@ -12,31 +12,38 @@ The course titled **Better Living Through Data Science: Exploring / Modeling / P
 ## Talk outline
 
 - Course info
-- R/RStudio: server
-- R Markdown: why and how
-	- Why: 
-		- Noble goal: Only workflow is a reproducible workflow
-		- Teaching goal: 
-			- Seeing code and output in one place helps learning
-			- Syntax highlighting
-		- Efficiency goal: Easier grading!
-	- How: Knit early and often
-- git/GitHub via RStudio: why and how
-	- Why: Early introducton
-	- How:
-		- As course management system
-		- For team collaboration
-	- Challenges:
-		- Remember to pull before starting work 
-		- Resolving merge conflicts
-		- Sometimes RStudio interface isn't sufficient
-		- Updates for next time:
+	- Overview: audience, content, description
+	- Structure: 
+		- Skills: data wrangling, EDA, visualization, basic inference, modeling, effective communication of results
+		- Computation: R + RStudio + git/GitHub
+		- Case studies: movie reviews, sports, airline delays, paris paintings, ...
+		- Assessment: in class team exercises, individual HW, midterm + final project, take home final exam
+- Computation:
+	- R/RStudio: server
+	- R Markdown: why and how
+		- Why: 
+			- Noble goal: Only workflow is a reproducible workflow
+			- Teaching goal: 
+				- Seeing code and output in one place helps learning
+				- Syntax highlighting
+			- Efficiency goal: Easier grading!
+		- How: Knit early and often
+	- git/GitHub via RStudio: why and how
+		- Why: Early introducton + marketibility
+		- How:
+			- As course management system
+			- For team collaboration
+			- Details on org/repo
+		- Challenges:
+			- Remember to pull before starting work 
+			- Resolving merge conflicts
+			- Sometimes RStudio interface isn't sufficient
 			- First assignment an individual assignment (not team)
-- Course logistics
-- Exercise examples
-- Last day:
-	- Local install
-	- Words of caution on private data
-- Assessment and curricular considerations
-- Impact
+- Exercise examples:
+	- modeling paris paintings
+	- basketball data scraping + shiny
+- Interest and impact:
+	- data on student interest for course
+	- curricular changes inspired by course
+		- gender balance comment
 
