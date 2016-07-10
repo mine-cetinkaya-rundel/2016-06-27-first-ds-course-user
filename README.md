@@ -2,6 +2,8 @@
 
 Slides for the "A first-year undergraduate data science course" talk at useR 2016 at Stanford.
 
+You can watch the video of this talk [here](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/A-first-year-undergraduate-data-science-course).
+
 ## Course info
 
 The course titled **Better Living Through Data Science: Exploring / Modeling / Predicting / Understanding**. Previous course home pages:
